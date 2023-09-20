@@ -55,7 +55,7 @@
 ## 프로젝트
 
 #### 2022
-### [Opcode와 API의 빈도수를 활용한 기계학습 기반 Cerber형 랜섬웨어 탐지 플랫폼 개발](https://github.com/Hminchae/Cerber-Type-Ransomware-Detection)
+> ### [Opcode와 API의 빈도수를 활용한 기계학습 기반 Cerber형 랜섬웨어 탐지 플랫폼 개발](https://github.com/Hminchae/Cerber-Type-Ransomware-Detection)
   * 담당 : 기초 모델링, 백엔드(파이썬)
   * 수상
     * 학술제 중소기업상업센터 협력장상 대상 수상
@@ -64,14 +64,14 @@
     * [[논문]Opcode와 API의 군집화와 유사도 분석을활용한 랜섬웨어 탐지모델 연구](https://preview.kstudy.com/W_files/kiss9/52825035_pv.pdf)
 
 #### 2023
-### [메추리알 - 우리들의 추억 일기장](https://github.com/Team-MechuriR/MechuriR)
+> ### [메추리알 - 우리들의 추억 일기장](https://github.com/Team-MechuriR/MechuriR)
   * 담당 : PM, 프론트엔드(플러터)
   * 제작중..
 
 
 ## 학력 및 경력
 
-* 홍익대학교 과학기술대학 소프트웨어융합학과(세종) 졸업 (2019.03 ~ 2023.02)
+* 홍익대학교 과학기술대학 소프트웨어융합학과(세종) 학사 (2019.03 ~ 2023.02)
 * (주)소프트온넷 AI 사업부 마케팅팀 (2022.11 ~ 2023.07)
 
 
