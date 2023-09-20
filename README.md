@@ -6,7 +6,7 @@
 <summary>요즘 이거 배워요..</summary>
 <div markdown="1">
 
-🎾🎾🎾
+🎾🎾
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -39,8 +39,10 @@
 <div markdown="1">       
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hminchae)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hminchae)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hminchae&theme=transparent)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hminchae&show_icons=true&theme=transparent)
 </div>
 </details>
 
