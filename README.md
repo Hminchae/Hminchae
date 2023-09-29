@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 # 안녕하세요. 황민채입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hminchae)](https://solved.ac/hminchae/)
 <details>
 <summary>요즘 이거 배워요..</summary>
 <div markdown="1">
