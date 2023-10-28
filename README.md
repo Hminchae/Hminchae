@@ -1,58 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-# 안녕하세요. 황민채입니다~ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHminchae&count_bg=%23E3DCF2&title_bg=%23529BDE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hminchae)](https://solved.ac/hminchae/)
-<details>
-<summary>요즘 이거 배워요..</summary>
-<div markdown="1">
+# 안녕하세요, 황민채입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHminchae&count_bg=%23E3DCF2&title_bg=%23529BDE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-🎾🎾
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### skills
 ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  
-</div>
-</details>
 
-<details>
-<summary>이런것도 관심있어요..</summary>
-<div markdown="1">
-
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hminchae)](https://solved.ac/hminchae/) 
 
 
-</div>
-</details>
 
-<details>
-<summary>내 깃허브는요..</summary>
-<div markdown="1">       
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hminchae&show_icons=true&theme=cobalt)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hminchae&theme=transparent)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hminchae&show_icons=true&theme=transparent)
-</div>
-</details>
-
-
-## 많관부 Blog 
+### Tech Blog 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hminchae)](https://velog.io/@hminchae)
 
 
-## 프로젝트
+### project
 
 #### 2022
 > ### [Opcode와 API의 빈도수를 활용한 기계학습 기반 Cerber형 랜섬웨어 탐지 플랫폼 개발](https://github.com/Hminchae/Cerber-Type-Ransomware-Detection)
@@ -69,16 +32,14 @@
   * 제작중..
 
 
-## 학력 및 경력
+### 학력 및 경력
 
 * 홍익대학교 과학기술대학 소프트웨어융합학과(세종) 학사 (2019.03 ~ 2023.02)
 * (주)소프트온넷 AI 사업부 마케팅팀 (2022.11 ~ 2023.07)
 
 
-## Contact
+### Contact
 <a href="hminchae@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/hi_thanky/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/min-hwang-1452b3245/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
