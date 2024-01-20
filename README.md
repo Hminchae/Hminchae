@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hminchae&show_icons=true&theme=cobalt)
 
-### Tech Blog 
+### Tech Blog.
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hminchae)](https://velog.io/@hminchae)
 
