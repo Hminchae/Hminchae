@@ -1,8 +1,6 @@
-​<div align="center">
-    
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
+    
+![image](https://github.com/Hminchae/Hminchae/assets/103357078/22ab4878-00b3-46cc-abb0-686e6fd63c4a)
 
 <div align="center">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hminchae&show_icons=true&theme=dracula&langs_count=8"/>
