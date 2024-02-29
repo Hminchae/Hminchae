@@ -9,11 +9,11 @@
 ### Experience 
 <div align="center">
 
-🎓 홍익대학교 소프트웨어융합학과(세종) 학사 (2019.03 ~ 2023.02)
+🎓 홍익대학교 소프트웨어융합학과(세종) 학사 (2019.03~2023.02)
 <br>
-📊 (주)소프트온넷 AI 사업부 마케팅팀 (2022.11 ~ 2023.07)
+📊 (주)소프트온넷 AI 사업부 마케팅팀 (2022.11~2023.07)
 <br>
-💻 LikeLion iOS AppSchool Academy 3rd (2023.09 ~ 2024.3)
+💻 LikeLion iOS AppSchool Academy 3rd (2023.09~2024.3)
  <br>
  <br>  
  <br>  
