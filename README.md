@@ -6,7 +6,7 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hminchae&show_icons=true&theme=dracula&langs_count=8"/>
 
  
-### Experience
+### Experience.
 <div align="center">
 
 🎓 홍익대학교 소프트웨어융합학과(세종) 학사 (2019.03 ~ 2023.02)
