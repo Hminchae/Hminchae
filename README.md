@@ -3,10 +3,10 @@
 ![image](https://github.com/Hminchae/Hminchae/assets/103357078/22ab4878-00b3-46cc-abb0-686e6fd63c4a)
 
 <div align="center">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hminchae&show_icons=true&theme=dracula&langs_count=8"/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hminchae&show_icons=true&theme=dark&langs_count=8"/>
 
  
-### Experience.
+### Experience
 <div align="center">
 
 🎓 홍익대학교 소프트웨어융합학과(세종) 학사 (2019.03 ~ 2023.02)
@@ -25,7 +25,7 @@
 <div align="center">
 <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hminchae"/>
  
-### Skils 
+### Skills 
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white&edge_flat=false) 
 ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) 
@@ -37,6 +37,6 @@
 <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="82" height="82" />  
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="82" height="82" />
 
-  <br>
+<br>
  
 </div>
