@@ -13,7 +13,7 @@
 <br>
 📊 (주)소프트온넷 AI 사업부 마케팅팀 (2022.11 ~ 2023.07)
 <br>
-💻 LikeLion iOS AppSchool Academy 3rd (2023.09 ~ 2024.3)
+💻 LikeLion iOS AppSchool Academy 3rd (2023.09 ~ 2024.2)
  <br>
  <br>  
  <br>  
