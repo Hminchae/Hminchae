@@ -1,7 +1,7 @@
 <div align="center">
     
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{hminchae}"/>
+<a href="https://github.com/devxb/gitanimals/">
+  <img src="https://render.gitanimals.org/lines/hminchae?pet-id=573535569038493682" height="120" width="600" align=right/>
 </a>
 
 <div align="center">
