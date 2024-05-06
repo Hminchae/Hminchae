@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### Skills
+### Skills.
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white&edge_flat=false) 
 ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) 
