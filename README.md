@@ -8,7 +8,7 @@
 
 <br><br>
 
-### Commit Your Code (2024.01 ~ 2024.02, 팀프로젝트)
+### Commit Your Code (2023.12, 팀프로젝트)
 > 1일 1커밋, 잔디심기를 독려하는 커밋알림앱 ([README](https://github.com/Hminchae/PJ2T2_CYC))
 
 키워드 : `SwiftUI`, `MVVM`, `Github API`, `Git`, `Git Flow`
@@ -17,10 +17,14 @@
 
 <br><br>
 
-### CTRD (2024.01 ~ 2024.02, 팀프로젝트)
+### CTRD (2022.03 ~ 2022.11, 팀프로젝트)
 > Opcode와 API의 특징정보를 활용한 머신러닝 기반 Cerber형 랜섬웨어 탐지 데스크톱 앱 ([README](https://github.com/Hminchae/Cerber-Type-Ransomware-Detection))
 
 키워드 : `Python`, `Pyqt`, `Linux`, `SSH`, `Cuckoo Sandbox API`, `Git`
+
+- ASK 정보처리학회 춘계 학술대회 동상([논문링크](https://kiss.kstudy.com/Detail/Ar?key=3957803))
+- 교내 학술제 대상
+- KTCCS 논문 투고, KCI 등재 ([논문링크](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002892502))
 
 ![image](https://github.com/Hminchae/Hminchae/assets/103357078/46561c31-bda9-4cbd-b0ad-ca242f864def)
 
